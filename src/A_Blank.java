@@ -1,0 +1,11 @@
+public class A_Blank extends World{
+
+    public void go() {
+
+        System.out.println("This is my code.");
+        plane.pausetime = 2;
+        plane.hasTrail = true;
+
+
+    }
+}
